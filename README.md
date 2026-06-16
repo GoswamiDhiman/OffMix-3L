@@ -6,7 +6,7 @@ OffMix-3L: A Novel Code-Mixed Dataset in Bangla-English-Hindi for Offensive Lang
 Code-mixing and code-switching are common linguistic phenomena observed both in speech and text form. While the two terms are often used interchangeably, code-mixing is defined as the use of words or morphemes from multiple languages within a single utterance, sentence, or discourse
 whereas code-switching refers to the deliberate alternation between multiple languages within the same context.
 
-We introduce OffMix-3L, a novel threelanguage code-mixed test dataset in Bangla-Hindi-English for offensive language identification. OffMix-3L contains 1,001 instances annotated by speakers of the three languages.
+We introduce OffMix-3L, a novel three language code-mixed test dataset in Bangla-Hindi-English for offensive language identification. OffMix-3L contains 1,001 instances annotated by speakers of the three languages.
 
 Read the full paper here: https://aclanthology.org/2023.socialnlp-1.3.pdf
 
