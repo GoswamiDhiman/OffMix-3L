@@ -11,9 +11,9 @@ We introduce OffMix-3L, a novel threelanguage code-mixed test dataset in Bangla-
 # Reference
 
 @inproceedings{goswami2023offmix,
-  title={OffMix-3L: A novel code-mixed test dataset in bangla-english-hindi for offensive language identification},
-  author={Goswami, Dhiman and Raihan, Nishat and Mahmud, Antara and Anastasopoulos, Antonios and Zampieri, Marcos},
-  booktitle={Proceedings of the 11th International Workshop on Natural Language Processing for Social Media},
-  pages={21--27},
+  title={OffMix-3L: A novel code-mixed test dataset in bangla-english-hindi for offensive language identification},<br>
+  author={Goswami, Dhiman and Raihan, Nishat and Mahmud, Antara and Anastasopoulos, Antonios and Zampieri, Marcos},<br>
+  booktitle={Proceedings of the 11th International Workshop on Natural Language Processing for Social Media},<br>
+  pages={21--27},<br>
   year={2023}
 }
