@@ -8,6 +8,8 @@ whereas code-switching refers to the deliberate alternation between multiple lan
 
 We introduce OffMix-3L, a novel threelanguage code-mixed test dataset in Bangla-Hindi-English for offensive language identification. OffMix-3L contains 1,001 instances annotated by speakers of the three languages.
 
+Read the full paper here: https://aclanthology.org/2023.socialnlp-1.3.pdf
+
 # Reference
 
 @inproceedings{goswami2023offmix,<br>
